@@ -53,4 +53,4 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql)](https://mysql.com/)
 [![Redis](https://img.shields.io/badge/-Redis-141414?style=flat&logo=redis)](https://redis.io)
 
-[![Matlab](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)](https://mathworks.com)
+[![Matlab](https://img.shields.io/badge/-Matlab-141414?style=flat&logo=matlab)](https://mathworks.com)
