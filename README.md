@@ -14,7 +14,6 @@
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/-Pandas-141414?style=flat&logo=pandas)](https://pandas.pydata.org)
 [![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnubash)](https://tiswww.case.edu/php/chet/bash/bashtop.html)
-
 [![Powershell](https://img.shields.io/badge/-Powershell-141414?style=flat&logo=powershell)](https://learn.microsoft.com/en-us/powershell/)
 [![Terraform](https://img.shields.io/badge/-Terraform-141414?style=flat&logo=terraform)](https://www.terraform.io/)
 [![CloudFormation](https://img.shields.io/badge/-CloudFormation-141414?style=flat&logo=icloud)](https://aws.amazon.com/cloudformation/)
@@ -37,20 +36,18 @@
 [![GCP](https://img.shields.io/badge/-GCP-141414?style=flat&logo=googlecloud)](https://cloud.google.com/)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-141414?style=flat&logo=jenkins)](https://jenkins.io)
 [![Ansible](https://img.shields.io/badge/-Ansible-141414?style=flat&logo=ansible)](https://ansible.com)
-
-[![Postman](https://img.shields.io/badge/-Postman-141414?style=flat&logo=postman)](https://postman.com)
-[![CloudFlare](https://img.shields.io/badge/-Cloudflare-141414?style=flat&logo=cloudflare)](https://www.cloudflare.com/)
-[![Splunk](https://img.shields.io/badge/-Splunk-141414?style=flat&logo=splunk)](https://www.splunk.com/)
-[![Datadog](https://img.shields.io/badge/-Datadog-141414?style=flat&logo=datadog)](https://www.datadoghq.com/)
-
 [![Linux](https://img.shields.io/badge/-Linux-141414?style=flat&logo=linux)](https://linux.org/)
 [![Debian](https://img.shields.io/badge/-Debian-141414?style=flat&logo=debian)](https://www.debian.org/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=ubuntu)](https://ubuntu.com/)
 [![MacOS](https://img.shields.io/badge/-MacOS-141414?style=flat&logo=apple)](https://www.apple.com/)
 
+[![Postman](https://img.shields.io/badge/-Postman-141414?style=flat&logo=postman)](https://postman.com)
+[![CloudFlare](https://img.shields.io/badge/-Cloudflare-141414?style=flat&logo=cloudflare)](https://www.cloudflare.com/)
+[![Splunk](https://img.shields.io/badge/-Splunk-141414?style=flat&logo=splunk)](https://www.splunk.com/)
+[![Datadog](https://img.shields.io/badge/-Datadog-141414?style=flat&logo=datadog)](https://www.datadoghq.com/)
+[![Matlab](https://img.shields.io/badge/-Matlab-141414?style=flat&logo=matlab)](https://mathworks.com)
+
 [![Apache Cassandra](https://img.shields.io/badge/-Apache_Cassandra-141414?style=flat&logo=apachecassandra)](https://cassandra.apache.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql)](https://postgresql.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql)](https://mysql.com/)
 [![Redis](https://img.shields.io/badge/-Redis-141414?style=flat&logo=redis)](https://redis.io)
-
-[![Matlab](https://img.shields.io/badge/-Matlab-141414?style=flat&logo=matlab)](https://mathworks.com)
