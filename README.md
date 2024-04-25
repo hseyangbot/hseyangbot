@@ -20,15 +20,6 @@
 [![Bicep](https://img.shields.io/badge/-Bicep-141414?style=flat&logo=microsoftazure)](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
 [![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)](https://git-scm.com/)
 
-[![Javascript](https://img.shields.io/badge/-Javascript-141414?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Typescript](https://img.shields.io/badge/-Typescript-141414?style=flat&logo=typescript)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)](https://reactjs.org)
-[![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=css3)](https://css3.com/)
-[![HTML](https://img.shields.io/badge/-HTML-141414?style=flat&logo=HTML5)](https://html5.org/)
-[![Jest](https://img.shields.io/badge/-Jest-141414?style=flat&logo=jest)](https://jestjs.io)
-[![NodeJS](https://img.shields.io/badge/-NodeJS-141414?style=flat&logo=nodedotjs)](https://www.node.org/)
-[![Figma](https://img.shields.io/badge/-Figma-141414?style=flat&logo=figma)](https://figma.com/)
-
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-141414?style=flat&logo=kubernetes)](https://www.kubernetes.org/)
 [![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)](https://www.docker.org/)
 [![AWS](https://img.shields.io/badge/-AWS-141414?style=flat&logo=amazonaws)](https://aws.amazon.com/)
@@ -41,13 +32,23 @@
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=ubuntu)](https://ubuntu.com/)
 [![MacOS](https://img.shields.io/badge/-MacOS-141414?style=flat&logo=apple)](https://www.apple.com/)
 
+[![Apache Cassandra](https://img.shields.io/badge/-Apache_Cassandra-141414?style=flat&logo=apachecassandra)](https://cassandra.apache.org/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql)](https://postgresql.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql)](https://mysql.com/)
+[![Redis](https://img.shields.io/badge/-Redis-141414?style=flat&logo=redis)](https://redis.io)
+
+[![Javascript](https://img.shields.io/badge/-Javascript-141414?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Typescript](https://img.shields.io/badge/-Typescript-141414?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)](https://reactjs.org)
+[![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=css3)](https://css3.com/)
+[![HTML](https://img.shields.io/badge/-HTML-141414?style=flat&logo=HTML5)](https://html5.org/)
+[![Jest](https://img.shields.io/badge/-Jest-141414?style=flat&logo=jest)](https://jestjs.io)
+[![NodeJS](https://img.shields.io/badge/-NodeJS-141414?style=flat&logo=nodedotjs)](https://www.node.org/)
+[![Figma](https://img.shields.io/badge/-Figma-141414?style=flat&logo=figma)](https://figma.com/)
 [![Postman](https://img.shields.io/badge/-Postman-141414?style=flat&logo=postman)](https://postman.com)
+
 [![CloudFlare](https://img.shields.io/badge/-Cloudflare-141414?style=flat&logo=cloudflare)](https://www.cloudflare.com/)
 [![Splunk](https://img.shields.io/badge/-Splunk-141414?style=flat&logo=splunk)](https://www.splunk.com/)
 [![Datadog](https://img.shields.io/badge/-Datadog-141414?style=flat&logo=datadog)](https://www.datadoghq.com/)
 [![Matlab](https://img.shields.io/badge/-Matlab-141414?style=flat&logo=matlab)](https://mathworks.com)
 
-[![Apache Cassandra](https://img.shields.io/badge/-Apache_Cassandra-141414?style=flat&logo=apachecassandra)](https://cassandra.apache.org/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql)](https://postgresql.org/)
-[![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql)](https://mysql.com/)
-[![Redis](https://img.shields.io/badge/-Redis-141414?style=flat&logo=redis)](https://redis.io)
